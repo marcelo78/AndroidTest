@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TASCH</string>
+
+    <string name="text_title">Product cataloque</string>
+
+    <string name="internet_failure_error">Internet connectivity error</string>
+    <string name="main_fragment_label">TASCH</string>
+    <string name="detail_fragment_label">TASCH</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="sub_total"><b>Sub-total</b> 500</string>
+    <string name="message_confirm">Are you sure you want to proceed to check out?</string>
+
+</resources>
